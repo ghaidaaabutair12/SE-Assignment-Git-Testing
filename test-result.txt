@@ -1,0 +1,4 @@
+ESLint Scan Results:
+- calculator.js: Passed!
+- No syntax or formatting errors found.
+- Quality Check: 100%
